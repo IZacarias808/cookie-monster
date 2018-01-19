@@ -1,0 +1,21 @@
+#nav-bar {
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    padding-top: 75px; 
+}
+body {
+    background-color: cornflowerblue;
+}
+#top {
+    text-align: center;
+}
+#title {
+    text-align: center;
+}
+#middle {
+    text-align: center;
+}
+#bottom {
+    text-align: center;
+}
